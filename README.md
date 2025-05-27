@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Bhavya Agadi Annadanappa!
+# 👋 Hi there, I'm Bhavya!
 
 🎯 **Quality Assurance Engineer | 10+ Years of Experience**  
 🧪 Manual | 🤖 Automation | 🌐 API Testing  
