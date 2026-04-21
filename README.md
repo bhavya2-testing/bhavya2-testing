@@ -2,7 +2,7 @@
 
 🎯 **Quality Assurance Engineer | 10+ Years of Experience**  
 🧪 Manual | 🤖 Automation | 🌐 API Testing  
-💻 Java • MySQL • Postman • Selenium • TestNG • JUnit • REST Assured
+💻 Java • Python • MySQL
 
 ---
 
