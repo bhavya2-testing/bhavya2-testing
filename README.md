@@ -31,10 +31,10 @@
 ## 🧰 Technical Skills
 
 **Programming & Scripting**
-Java • SQL • Bash/Shell Scripting
+Java • SQL • Bash/Shell Scripting • JSON • XML
 
 **Test Automation & API Testing**
-Selenium • TestNG • Postman
+Selenium • TestNG • JUnit • REST Assured • Postman
 
 **DevOps & Cloud (Learning & Hands-on Practice)**
 Linux • Git/GitHub • Jenkins • Docker • Kubernetes • AWS (EC2, S3, IAM, VPC, CloudWatch)
