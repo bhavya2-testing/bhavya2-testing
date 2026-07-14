@@ -1,4 +1,4 @@
-👋 Hi, I'm Bhavya!
+## 👋 Hi, I'm Bhavya!
 
 🎯 QA Automation Engineer
 🤖 Test Automation | 🌐 API Testing | ☁️ DevOps & Cloud Learning
