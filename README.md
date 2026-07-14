@@ -1,8 +1,8 @@
-# 👋 Hi there, I'm Bhavya!
+👋 Hi, I'm Bhavya!
 
-🎯 **Quality Assurance Engineer | 10+ Years of Experience**  
-🧪 Manual | 🤖 Automation | 🌐 API Testing  
-💻 Java • Python • MySQL
+🎯 QA Automation Engineer
+🤖 Test Automation | 🌐 API Testing | ☁️ DevOps & Cloud Learning
+💻 Java • Python • Linux • AWS
 
 ---
 
