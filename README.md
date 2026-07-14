@@ -6,47 +6,52 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-I'm a seasoned QA Engineer with over 10 years of hands-on experience ensuring software quality across diverse domains. I specialize in designing and executing manual and automated test strategies that help deliver robust, high-performance applications. I'm passionate about clean code, efficient processes, and continuous improvement.
+🔍 What I do best:
 
-🔍 **What I do best:**
-- Writing and maintaining automated test scripts using Java
-- REST API testing using Postman & REST Assured
-- Creating detailed test plans, test cases, and bug reports
-- Working in Agile environments and collaborating across teams
-- Ensuring database integrity with MySQL queries
-- CI/CD integration with automated testing pipelines
+• Designing and executing manual and automated testing strategies to ensure high-quality software delivery
+• Developing and maintaining automation frameworks using Java
+• Performing REST API testing using Postman and REST Assured
+• Creating comprehensive test plans, test cases, and detailed defect reports
+• Collaborating in Agile environments with developers, product owners, and cross-functional teams
+• Validating database integrity using MySQL queries
+• Integrating automated testing into CI/CD pipelines to improve release efficiency
+• Applying troubleshooting and problem-solving skills across software development and delivery processes
 
----
-
-## 🧰 Tech Toolbox
-
-**Languages:**  
-Java • SQL • HTML • XML • JSON  
-
-**Tools & Frameworks:**  
-Selenium • TestNG • JUnit • REST Assured • Postman • Maven • Git • Jenkins  
-
-**Databases:**  
-MySQL • Oracle  
-
-**Methodologies:**  
-Agile • Scrum • BDD • TDD  
+🚀 Currently expanding my expertise in:
+• AWS Cloud Services
+• Linux Administration
+• Docker & Kubernetes
+• CI/CD Automation
+• DevOps practices and cloud-based application deployments
 
 ---
 
-## 📌 Projects & Contributions
+## 🧰 Technical Skills
 
-I regularly work on building robust test frameworks, automating repetitive tasks, and contributing to open-source QA tools. Check out some of my pinned repositories below to see my latest work!
+**Programming & Scripting**
+Java • SQL • Bash/Shell Scripting
+
+**Test Automation & API Testing**
+Selenium • TestNG • Postman
+
+**DevOps & Cloud (Learning & Hands-on Practice)**
+Linux • Git/GitHub • Jenkins • Docker • Kubernetes • AWS (EC2, S3, IAM, VPC, CloudWatch)
+
+**Databases**
+MySQL • Oracle
+
+**Development Practices**
+Agile • Scrum • CI/CD • Automation Testing • Continuous Improvement
 
 ---
 
 ## 📫 Let's Connect
 
-Feel free to reach out — I love collaborating with other QA professionals and developers!
+Interested in software quality, automation, cloud technologies, and DevOps? Let's connect and share knowledge!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhavya-agadi-annadanappa/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/bhavya-agadi-annadanappa/)
 
 ---
 
